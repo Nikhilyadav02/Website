@@ -14,6 +14,8 @@ const MenuBar = () => {
                     <li><a href="/">Home</a></li>
                     <li><a href="/AboutUs">About Us</a></li>
                     <li><a href="/ContactUs">Contact Us</a></li>                
+                    <li><a href="/CompOne">Component one</a></li>                
+                    <li><a href="/CompTwo">Component Two</a></li>                
                 </ul>
             </div>
         </nav>
